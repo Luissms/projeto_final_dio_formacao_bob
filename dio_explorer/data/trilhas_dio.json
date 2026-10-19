@@ -1,0 +1,464 @@
+{
+  "trilhas": [
+    {
+      "id": 1,
+      "nome": "Fullstack JavaScript Moderno",
+      "tecnologia": "JavaScript / Node.js / React",
+      "nivel": "Intermediário",
+      "numero_de_modulos": 12,
+      "xp_total": 9800,
+      "badges_disponiveis": ["JS Ninja", "React Master", "Node Expert", "Fullstack Hero"],
+      "promocoes": {
+        "desconto_percentual": 30,
+        "validade": "2025-08-31",
+        "cupom": "FULLJS30"
+      },
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 2,
+      "nome": "Python para Inteligência Artificial",
+      "tecnologia": "Python / TensorFlow / Keras",
+      "nivel": "Avançado",
+      "numero_de_modulos": 15,
+      "xp_total": 13500,
+      "badges_disponiveis": ["Python AI Pioneer", "Deep Learning Expert", "Neural Network Builder"],
+      "promocoes": {
+        "desconto_percentual": 20,
+        "validade": "2025-07-15",
+        "cupom": "PYAI20"
+      },
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolvimento Android com Kotlin",
+      "tecnologia": "Kotlin / Android SDK / Jetpack Compose",
+      "nivel": "Intermediário",
+      "numero_de_modulos": 10,
+      "xp_total": 8200,
+      "badges_disponiveis": ["Kotlin Developer", "Android Specialist", "Jetpack Composer"],
+      "promocoes": null,
+      "vitalicio": true,
+      "live_ao_vivo": false
+    },
+    {
+      "id": 4,
+      "nome": "Cloud Computing com AWS",
+      "tecnologia": "AWS / EC2 / S3 / Lambda",
+      "nivel": "Intermediário",
+      "numero_de_modulos": 14,
+      "xp_total": 11000,
+      "badges_disponiveis": ["Cloud Practitioner", "AWS Solutions Architect", "Serverless Expert"],
+      "promocoes": {
+        "desconto_percentual": 15,
+        "validade": "2025-09-01",
+        "cupom": "AWS15OFF"
+      },
+      "vitalicio": false,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 5,
+      "nome": "Engenharia de Dados com Apache Spark",
+      "tecnologia": "Python / Apache Spark / Hadoop",
+      "nivel": "Avançado",
+      "numero_de_modulos": 13,
+      "xp_total": 12000,
+      "badges_disponiveis": ["Data Engineer", "Spark Master", "Big Data Pro"],
+      "promocoes": {
+        "desconto_percentual": 25,
+        "validade": "2025-06-30",
+        "cupom": "SPARK25"
+      },
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 6,
+      "nome": "DevOps e CI/CD na Prática",
+      "tecnologia": "Docker / Kubernetes / Jenkins / GitHub Actions",
+      "nivel": "Avançado",
+      "numero_de_modulos": 11,
+      "xp_total": 10500,
+      "badges_disponiveis": ["DevOps Engineer", "CI/CD Specialist", "Container Master"],
+      "promocoes": null,
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 7,
+      "nome": "Desenvolvimento iOS com Swift",
+      "tecnologia": "Swift / SwiftUI / Xcode",
+      "nivel": "Intermediário",
+      "numero_de_modulos": 9,
+      "xp_total": 7800,
+      "badges_disponiveis": ["Swift Developer", "iOS Specialist", "SwiftUI Builder"],
+      "promocoes": {
+        "desconto_percentual": 10,
+        "validade": "2025-07-31",
+        "cupom": "IOS10"
+      },
+      "vitalicio": false,
+      "live_ao_vivo": false
+    },
+    {
+      "id": 8,
+      "nome": "Fundamentos de Programação para Iniciantes",
+      "tecnologia": "Lógica de Programação / Scratch / Python",
+      "nivel": "Básico",
+      "numero_de_modulos": 6,
+      "xp_total": 3500,
+      "badges_disponiveis": ["First Steps", "Logic Hero", "Beginner Coder"],
+      "promocoes": {
+        "desconto_percentual": 50,
+        "validade": "2025-12-31",
+        "cupom": "INICIO50"
+      },
+      "vitalicio": true,
+      "live_ao_vivo": false
+    },
+    {
+      "id": 9,
+      "nome": "Segurança da Informação e Ethical Hacking",
+      "tecnologia": "Kali Linux / Metasploit / OWASP",
+      "nivel": "Avançado",
+      "numero_de_modulos": 16,
+      "xp_total": 14000,
+      "badges_disponiveis": ["Security Analyst", "Ethical Hacker", "Penetration Tester", "OWASP Expert"],
+      "promocoes": null,
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 10,
+      "nome": "Machine Learning com Scikit-Learn",
+      "tecnologia": "Python / Scikit-Learn / Pandas / NumPy",
+      "nivel": "Avançado",
+      "numero_de_modulos": 12,
+      "xp_total": 11500,
+      "badges_disponiveis": ["ML Practitioner", "Data Scientist", "Scikit Pro"],
+      "promocoes": {
+        "desconto_percentual": 20,
+        "validade": "2025-08-15",
+        "cupom": "ML20DIO"
+      },
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 11,
+      "nome": "Desenvolvimento Web com Vue.js",
+      "tecnologia": "Vue.js / Vuex / Nuxt.js",
+      "nivel": "Intermediário",
+      "numero_de_modulos": 8,
+      "xp_total": 6500,
+      "badges_disponiveis": ["Vue Developer", "Nuxt Expert", "Frontend Specialist"],
+      "promocoes": null,
+      "vitalicio": false,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 12,
+      "nome": "Java Moderno com Spring Boot",
+      "tecnologia": "Java / Spring Boot / Hibernate / Maven",
+      "nivel": "Intermediário",
+      "numero_de_modulos": 13,
+      "xp_total": 10200,
+      "badges_disponiveis": ["Java Developer", "Spring Expert", "Backend Engineer"],
+      "promocoes": {
+        "desconto_percentual": 35,
+        "validade": "2025-07-01",
+        "cupom": "SPRING35"
+      },
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 13,
+      "nome": "Banco de Dados Relacionais com PostgreSQL",
+      "tecnologia": "SQL / PostgreSQL / PgAdmin",
+      "nivel": "Básico",
+      "numero_de_modulos": 7,
+      "xp_total": 5000,
+      "badges_disponiveis": ["SQL Master", "Database Designer", "PostgreSQL Pro"],
+      "promocoes": null,
+      "vitalicio": true,
+      "live_ao_vivo": false
+    },
+    {
+      "id": 14,
+      "nome": "Blockchain e Web3 com Solidity",
+      "tecnologia": "Solidity / Ethereum / Hardhat / MetaMask",
+      "nivel": "Avançado",
+      "numero_de_modulos": 14,
+      "xp_total": 13000,
+      "badges_disponiveis": ["Blockchain Developer", "Smart Contract Engineer", "Web3 Pioneer", "DeFi Explorer"],
+      "promocoes": {
+        "desconto_percentual": 40,
+        "validade": "2025-10-31",
+        "cupom": "WEB3DIO40"
+      },
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 15,
+      "nome": "Flutter e Dart — Apps Multiplataforma",
+      "tecnologia": "Flutter / Dart",
+      "nivel": "Intermediário",
+      "numero_de_modulos": 10,
+      "xp_total": 8800,
+      "badges_disponiveis": ["Flutter Dev", "Dart Expert", "Cross-Platform Builder"],
+      "promocoes": null,
+      "vitalicio": true,
+      "live_ao_vivo": false
+    },
+    {
+      "id": 16,
+      "nome": "Microsoft Azure na Nuvem",
+      "tecnologia": "Azure / Azure Functions / AKS / Cosmos DB",
+      "nivel": "Intermediário",
+      "numero_de_modulos": 12,
+      "xp_total": 10800,
+      "badges_disponiveis": ["Azure Fundamentals", "Azure Developer", "Cloud Architect"],
+      "promocoes": {
+        "desconto_percentual": 20,
+        "validade": "2025-09-30",
+        "cupom": "AZURE20"
+      },
+      "vitalicio": false,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 17,
+      "nome": "Game Development com Unity",
+      "tecnologia": "Unity / C# / 2D & 3D Game Design",
+      "nivel": "Intermediário",
+      "numero_de_modulos": 11,
+      "xp_total": 9200,
+      "badges_disponiveis": ["Game Developer", "Unity Specialist", "Level Designer", "2D Pixel Artist"],
+      "promocoes": {
+        "desconto_percentual": 15,
+        "validade": "2025-08-01",
+        "cupom": "GAME15"
+      },
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 18,
+      "nome": "UX/UI Design com Figma",
+      "tecnologia": "Figma / Design Systems / Prototipação",
+      "nivel": "Básico",
+      "numero_de_modulos": 7,
+      "xp_total": 4800,
+      "badges_disponiveis": ["UX Researcher", "UI Designer", "Figma Expert"],
+      "promocoes": null,
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 19,
+      "nome": "Go Lang para Sistemas de Alta Performance",
+      "tecnologia": "Go / Goroutines / gRPC",
+      "nivel": "Avançado",
+      "numero_de_modulos": 10,
+      "xp_total": 9500,
+      "badges_disponiveis": ["Go Developer", "Concurrency Expert", "Microservices Pro"],
+      "promocoes": {
+        "desconto_percentual": 25,
+        "validade": "2025-11-30",
+        "cupom": "GOFAST25"
+      },
+      "vitalicio": true,
+      "live_ao_vivo": false
+    },
+    {
+      "id": 20,
+      "nome": "Ciência de Dados com R",
+      "tecnologia": "R / ggplot2 / Tidyverse / Shiny",
+      "nivel": "Intermediário",
+      "numero_de_modulos": 9,
+      "xp_total": 7600,
+      "badges_disponiveis": ["R Programmer", "Data Analyst", "Statistical Thinker"],
+      "promocoes": null,
+      "vitalicio": false,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 21,
+      "nome": "Desenvolvimento Backend com C#/.NET",
+      "tecnologia": "C# / ASP.NET Core / Entity Framework",
+      "nivel": "Intermediário",
+      "numero_de_modulos": 11,
+      "xp_total": 9100,
+      "badges_disponiveis": ["C# Developer", ".NET Expert", "API Builder"],
+      "promocoes": {
+        "desconto_percentual": 30,
+        "validade": "2025-07-20",
+        "cupom": "DOTNET30"
+      },
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 22,
+      "nome": "Infraestrutura como Código com Terraform",
+      "tecnologia": "Terraform / HCL / AWS / Azure",
+      "nivel": "Avançado",
+      "numero_de_modulos": 10,
+      "xp_total": 10000,
+      "badges_disponiveis": ["IaC Specialist", "Terraform Expert", "Cloud Infrastructure Pro"],
+      "promocoes": null,
+      "vitalicio": true,
+      "live_ao_vivo": false
+    },
+    {
+      "id": 23,
+      "nome": "Desenvolvimento Frontend com Angular",
+      "tecnologia": "Angular / TypeScript / RxJS",
+      "nivel": "Intermediário",
+      "numero_de_modulos": 10,
+      "xp_total": 8400,
+      "badges_disponiveis": ["Angular Developer", "TypeScript Master", "RxJS Ninja"],
+      "promocoes": {
+        "desconto_percentual": 20,
+        "validade": "2025-06-15",
+        "cupom": "ANG20"
+      },
+      "vitalicio": false,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 24,
+      "nome": "Introdução ao Linux e Linha de Comando",
+      "tecnologia": "Linux / Bash / Shell Script",
+      "nivel": "Básico",
+      "numero_de_modulos": 5,
+      "xp_total": 3200,
+      "badges_disponiveis": ["Linux User", "Bash Scripter", "Terminal Warrior"],
+      "promocoes": {
+        "desconto_percentual": 50,
+        "validade": "2025-12-31",
+        "cupom": "LINUXFREE"
+      },
+      "vitalicio": true,
+      "live_ao_vivo": false
+    },
+    {
+      "id": 25,
+      "nome": "Rust — Programação de Sistemas Seguros",
+      "tecnologia": "Rust / Cargo / WebAssembly",
+      "nivel": "Avançado",
+      "numero_de_modulos": 13,
+      "xp_total": 12500,
+      "badges_disponiveis": ["Rustacean", "Memory Safe Developer", "WASM Pioneer"],
+      "promocoes": null,
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 26,
+      "nome": "Automação de Testes com Cypress e Playwright",
+      "tecnologia": "Cypress / Playwright / Jest",
+      "nivel": "Intermediário",
+      "numero_de_modulos": 8,
+      "xp_total": 6800,
+      "badges_disponiveis": ["QA Engineer", "Test Automation Specialist", "E2E Testing Pro"],
+      "promocoes": {
+        "desconto_percentual": 15,
+        "validade": "2025-08-20",
+        "cupom": "QA15DIO"
+      },
+      "vitalicio": true,
+      "live_ao_vivo": false
+    },
+    {
+      "id": 27,
+      "nome": "NoSQL com MongoDB e Redis",
+      "tecnologia": "MongoDB / Redis / NoSQL",
+      "nivel": "Intermediário",
+      "numero_de_modulos": 8,
+      "xp_total": 6600,
+      "badges_disponiveis": ["NoSQL Developer", "MongoDB Expert", "Cache Master"],
+      "promocoes": null,
+      "vitalicio": false,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 28,
+      "nome": "Computação Quântica com Qiskit",
+      "tecnologia": "Python / Qiskit / IBM Quantum",
+      "nivel": "Avançado",
+      "numero_de_modulos": 9,
+      "xp_total": 11200,
+      "badges_disponiveis": ["Quantum Explorer", "Qiskit Developer", "IBM Quantum Pioneer"],
+      "promocoes": {
+        "desconto_percentual": 45,
+        "validade": "2025-10-01",
+        "cupom": "QUANTUM45"
+      },
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 29,
+      "nome": "Análise de Dados com Power BI",
+      "tecnologia": "Power BI / DAX / Power Query",
+      "nivel": "Básico",
+      "numero_de_modulos": 7,
+      "xp_total": 5400,
+      "badges_disponiveis": ["Data Analyst", "Power BI Developer", "BI Storyteller"],
+      "promocoes": {
+        "desconto_percentual": 25,
+        "validade": "2025-07-10",
+        "cupom": "PBI25DIO"
+      },
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 30,
+      "nome": "Microserviços com NestJS e RabbitMQ",
+      "tecnologia": "NestJS / TypeScript / RabbitMQ / Docker",
+      "nivel": "Avançado",
+      "numero_de_modulos": 12,
+      "xp_total": 11800,
+      "badges_disponiveis": ["Microservices Architect", "NestJS Expert", "Message Queue Pro", "Event-Driven Dev"],
+      "promocoes": null,
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 31,
+      "nome": "Inteligência Artificial Generativa com LLMs",
+      "tecnologia": "Python / LangChain / OpenAI API / HuggingFace",
+      "nivel": "Avançado",
+      "numero_de_modulos": 14,
+      "xp_total": 14500,
+      "badges_disponiveis": ["Generative AI Dev", "Prompt Engineer", "LLM Specialist", "AI Application Builder"],
+      "promocoes": {
+        "desconto_percentual": 30,
+        "validade": "2025-11-15",
+        "cupom": "GENAI30"
+      },
+      "vitalicio": true,
+      "live_ao_vivo": true
+    },
+    {
+      "id": 32,
+      "nome": "Desenvolvimento de APIs RESTful com FastAPI",
+      "tecnologia": "Python / FastAPI / Pydantic / SQLAlchemy",
+      "nivel": "Intermediário",
+      "numero_de_modulos": 9,
+      "xp_total": 7900,
+      "badges_disponiveis": ["API Developer", "FastAPI Expert", "Python Backend Pro"],
+      "promocoes": null,
+      "vitalicio": false,
+      "live_ao_vivo": false
+    }
+  ]
+}
