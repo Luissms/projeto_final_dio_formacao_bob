@@ -17,3 +17,8 @@ node_modules/
 
 # Temporary files
 *.tmp
+
+# Bob commands are part of the project
+!.bob/
+!.bob/commands/
+!.bob/commands/*.md
